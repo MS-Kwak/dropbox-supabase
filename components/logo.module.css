@@ -1,0 +1,9 @@
+.Logo {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.Logo span {
+  font-size: 18px;
+  font-weight: bold;
+}

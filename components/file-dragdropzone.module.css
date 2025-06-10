@@ -1,0 +1,7 @@
+.fileDragDropZone {
+  margin-top: 20px;
+  width: 100%;
+  border: 2px dotted #777;
+  padding: 20px;
+  height: 150px;
+}

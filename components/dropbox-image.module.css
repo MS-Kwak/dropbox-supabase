@@ -1,0 +1,12 @@
+.DropboxImage {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  position: relative;
+}
+.delete {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  fill: #e54242 !important;
+}
