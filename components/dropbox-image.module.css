@@ -5,8 +5,10 @@
   position: relative;
 }
 .delete {
-  position: absolute;
+  position: absolute !important;
   right: 20px;
   top: 20px;
+}
+.delete svg {
   fill: #e54242 !important;
 }
