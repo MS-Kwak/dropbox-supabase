@@ -1,7 +1,6 @@
 'use server';
 
 import { createServerSupabaseClient } from '@/utils/supabase/server';
-import { file } from '../node_modules/@babel/types/lib/index-legacy.d';
 
 const handleError = (error) => {
   console.error(error);
