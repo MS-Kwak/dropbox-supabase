@@ -8,7 +8,7 @@ const nextConfig: NextConfig = {
     },
   },
   images: {
-    domains: ['[project_id].supabase.co'],
+    domains: ['uovomsxutgdnwwdxjodb.supabase.co'],
   },
   experimental: {
     serverActions: {
