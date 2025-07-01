@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate-types": "npx supabase gen types typescript --project-id uovomsxutgdnwwdxjodb --schema public > types_db.ts"
+    "generate-types": "npx supabase gen types typescript --project-id nscxysomwthwjrjskmhs --schema public > types_db.ts"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -24,6 +24,7 @@
     "next": "15.3.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-dropzone": "^14.3.8",
     "react-intersection-observer": "^9.16.0"
   },
   "devDependencies": {
